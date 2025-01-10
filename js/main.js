@@ -19,6 +19,6 @@ console.log(fullName);
 //4
 let userName = "Олександро"; 
 let payment = 300; 
-//в мене тут не виходить
+alert(`Дякуємо, ${userName}! До сплати ${payment} гривень`)
 
 
